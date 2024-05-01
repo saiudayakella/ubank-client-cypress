@@ -33,7 +33,7 @@ For mode information on system requirements:
 
 ## Setup
 
-1. Clone the repository (or) Unzip the project
+1. Clone the repository "https://github.com/saiudayakella/ubank-client-cypress.git" (or) Unzip the project
 2. Open terminal
 3. Navigate to the project root folder and install the dependencies:
 

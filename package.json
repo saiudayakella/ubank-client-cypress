@@ -2,6 +2,10 @@
   "name": "ubank-client-cypress",
   "version": "1.0.0",
   "description": "Cypress tests for ubank website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saiudayakella/ubank-client-cypress.git"
+  },
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open --browser chrome --e2e",
